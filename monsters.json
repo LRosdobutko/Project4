@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Goblin",
+        "stats": {
+            "health": 100,
+            "level": 5,
+            "defense": 20,
+            "magic Defense": 15,
+            "attack": 25,
+            "magic Attack": 10,
+            "xp Earned": 50,
+            "gold Earned": 20
+        },
+        "description": "A small and mischievous creature that often roams in forests.",
+        "location": "Forest of Elms",
+        "image": "images/goblin.png"
+    },
+    {
+        "name": "Knight",
+        "stats": {
+            "health": 200,
+            "level": 10,
+            "defense": 40,
+            "magic Defense": 30,
+            "attack": 45,
+            "magic Attack": 20,
+            "xp Earned": 100,
+            "gold Earned": 50
+        },
+        "description": "A heavily armored warrior skilled in both offense and defense.",
+        "location": "Castle Stronghold",
+        "image": "images/knight.png"
+    },
+    {
+        "name": "Dragon",
+        "stats": {
+            "health": 500,
+            "level": 20,
+            "defense": 80,
+            "magic Defense": 70,
+            "attack": 90,
+            "magic Attack": 60,
+            "xp Earned": 500,
+            "gold Earned": 200
+        },
+        "description": "A mighty and ancient creature with powerful breath attacks.",
+        "location": "Dragon's Lair",
+        "image": "images/dragon.png"
+    },
+    {
+        "name": "Witch",
+        "stats": {
+            "health": 150,
+            "level": 10,
+            "defense": 20,
+            "magic Defense": 50,
+            "attack": 15,
+            "magic Attack": 100,
+            "xp Earned": 300,
+            "gold Earned": 100
+        },
+        "description": "An old crone capable of inflicting crippling status effects and dishing out power offensive magic.",
+        "location": "Swampy Marsh",
+        "image": "images/witch.png"
+    }
+]

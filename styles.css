@@ -17,7 +17,7 @@ h2 {
 body a {
     color: #fff;
     /* Default color */
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 body a:visited {
